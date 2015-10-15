@@ -7,6 +7,8 @@
 Cultastic is a cult movie fansite. Users can sign up, find, add, and edit movies, and add reviews to movies. Admins can also delete movie categories and movies.
 To see admin features, log in with email: "username@gmail.com", password: "password".
 
+**Note: Integration tests are currently not passing. Factory girl gem needs to be installed and configured but we ran out of time. Also it's kind of tricky. We are accepting pull requests that have factory girl properly installed, configured, and updated passing integration specs. Thanks in advance! ;)
+
 ## Installation
 
 * `git clone <repository-url>` this repository
