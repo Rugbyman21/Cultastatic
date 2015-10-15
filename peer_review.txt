@@ -1,0 +1,17 @@
+Github Documentation - Looks good!
+
+Specs - There is good spec coverage! There are two failing integration spec for adding a category
+
+Application Logic - Looks like it all has good indentation and is written clearly for what your methods are supposed to do.
+
+Site - The site is user friendly, but the button for adding a movie to a category is broken for admin:(
+
+Refactoring - The code looks concise and doesn't look like there is anything that doesn't need to be there.
+
+Stand Out Features - The Login and Sign up is pretty sweet. Pages are laid out simply, the About modal is cool, the edit profile is sweet. EVERYTHING IS SWEET.
+
+Improved Features - The add movie button didn't work for the admin, but that could have been due to error on our part in setting up all the database mumbo jumbo. Otherwise its pretty rad all around.
+
+Additional Notes - The login stuff is really cool and seems to work really well. Having the admin account is really cool only allowing those accounts to add and delete features. We dig it! Any of the broken things could have been from our faulty set-up of your project, so it may be user error ;)
+
+ - Justin & Trevor 
